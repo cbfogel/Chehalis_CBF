@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+
+#This means dont backup .Rproj file
+*.Rproj
